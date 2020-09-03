@@ -1,3 +1,4 @@
-# Aphotic Linux <コ:彡
+# Aphotic Linux 
+# <コ:彡
 
-# Current version: 0.1-Alpha
+Current version: 0.1-Alpha
